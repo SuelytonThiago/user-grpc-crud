@@ -16,7 +16,7 @@
 <h1>How to run the project</h1>
 
 <h2>Clone repository</h2>
-<p>git clone https://github.com/SuelytonThiago/User-grpc-crud</p>
+<p><code>git clone https://github.com/SuelytonThiago/User-grpc-crud</code></p>
 
 <h2>Run the project</h2>
 <p>./mvnw spring-boot:run</p>
